@@ -19,7 +19,7 @@ imageX = width*0 ;
 imageY = height*0 ;
 imageWidth = width ;
 imageHeight = height;
-pic = loadImage("john-cena-on-him-being-a-part-of-wrestlemania-38-001");//Dimensions: 800, 600
+pic = loadImage("lion-wallpaper-hd-cool-lion-wallpapers-hd-74-images-preview");//Dimensions: 800, 600
 //
 rect(imageX, imageY, imageWidth, imageHeight);
 image(pic, imageX, imageY, imageWidth, imageHeight);
